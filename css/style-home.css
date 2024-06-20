@@ -1,0 +1,48 @@
+body {
+	margin: auto;
+	font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+	align-items: center;
+}
+
+header {
+	width: 100%;
+	display: flexbox;
+	padding: 60px 0;
+	align-items: center;
+	box-sizing: border-box;
+}
+
+.container {
+	margin-bottom: 3rem;
+	display: flex;
+	flex-wrap: wrap;
+	margin-right: -15px;
+	margin-left: -15px;
+	align-items: center;
+}
+
+.login-box {
+	margin-bottom: 3rem;
+	display: flex;
+	flex-wrap: wrap;
+	margin-right: -15px;
+	margin-left: -15px;
+	align-items: center;
+}
+
+
+footer{
+	text-align: center;
+	background: url(img/logotelefonica.png);
+	
+}
+
+.copyright{
+    color: black;
+    font-size: 14px;
+    margin: 20px;
+}
